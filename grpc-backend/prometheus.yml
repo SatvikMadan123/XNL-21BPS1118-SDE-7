@@ -1,0 +1,6 @@
+global:
+  scrape_interval: 5s  # How frequently to scrape targets
+scrape_configs:
+  - job_name: 'grpc-backend'
+    static_configs:
+      - targets: ['localhost:9090']  # Backend exposes metrics here

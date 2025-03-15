@@ -1,0 +1,4 @@
+Received log: Hello, this is a test log!
+Received log: Hello, this is a test log!
+Received log: Hello, this is a test log!
+Received log: Hello, this is a test log!
